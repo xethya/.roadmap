@@ -27,6 +27,8 @@ This repo is your starting point if you're becoming a _Feature Champion_. Let's 
 
 Keep in mind that we're working for other developers, so the framework must be clearly documented.
 
+**Also:** The framework is currently in a very early stage, so we'll all be learning together how to make this work. This means that these guidelines at first won't be strongly enforced, but the idea is to be well organised from scratch.
+
 [_The Guild_](https://github.com/orgs/xethya/teams/guild) is the team of core contributors of Xethya.
 
 ### Roadmap
