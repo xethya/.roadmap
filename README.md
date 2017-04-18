@@ -22,8 +22,10 @@ The full specification of the framework is being written in the [xethya/.specs](
 
 This repo is your starting point if you're becoming a _Feature Champion_. Let's go with an example:
 
-> Meet Vilma 🙋. Vilma is a JavaScript developer that wants to join Xethya. She's an expert in [PRNGs](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) and wants to implement new randomization algorithms in the [Dice](https://github.com/xethya/xethya-dice) module. She wants more _aggresive_ rolls, so she starts writing down how the dice should behave in [xethya/.specs](https://github.com/xethya/.specs). For that, she opens an issue to submit a proposal. The proposal spec is discussed and once that the _Guild_ resolves where should the feature live, coding begins. 
+> Meet Vilma 🙋. Vilma is a JavaScript developer that wants to join Xethya. She's an expert in [PRNGs](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) and wants to implement new randomization algorithms in the [Dice](https://github.com/xethya/xethya-dice) module. She wants more _aggresive_ rolls, so she starts writing down how the dice should behave in [xethya/.specs](https://github.com/xethya/.specs). For that, she opens an issue to submit a proposal. The proposal spec is discussed and once that the _Guild_ approves the feature and resolves where should it live, coding may begin. 
 > Once the feature is developed, reviewed and merged, a _freezed spec_ entry is created in `.specs`, in order to preserve how the feature works.
+> A feature can also be rejected or put on hold until another developer/champion can lead the way with it.
+> A `core feature` doesn't require approval, since it's defined by the Guild and has already an internal approval.
 
 Keep in mind that we're working for other developers, so the framework must be clearly documented.
 
