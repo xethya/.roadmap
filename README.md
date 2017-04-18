@@ -20,6 +20,12 @@ We use the `javascript` generator from `yeoman`, so we have Babel + Rollup alrea
 
 The full specification of the framework is being written in the [xethya/.specs](https://github.com/xethya/.specs) repo. If you come from the RPG world, consider this repo the Dungeon Master's Gamebook.
 
+This repo is your starting point if you're becoming a _Feature Champion_. Let's go with an example:
+
+> Meet Vilma 🙋. Vilma is a JavaScript developer that wants to join Xethya. She's an expert in [PRNGs](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) and wants to implement new randomization algorithms in the [Dice](https://github.com/xethya/xethya-dice) module. She wants more _aggresive_ rolls, so she starts writing down how the dice should behave in [xethya/.specs](https://github.com/xethya/.specs). For that, she opens an issue to submit a proposal. The proposal spec is discussed and once that the _Guild_ resolves where should the feature live, coding begins. 
+
+[_The Guild_](https://github.com/orgs/xethya/teams/guild) is the team of core contributors of Xethya.
+
 ### Roadmap
 
 We'll keep track of the framework's global status with GitHub issues and [projects](https://github.com/xethya/.roadmap/projects) contained in this repo. 
