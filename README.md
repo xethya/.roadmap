@@ -23,6 +23,9 @@ The full specification of the framework is being written in the [xethya/.specs](
 This repo is your starting point if you're becoming a _Feature Champion_. Let's go with an example:
 
 > Meet Vilma 🙋. Vilma is a JavaScript developer that wants to join Xethya. She's an expert in [PRNGs](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) and wants to implement new randomization algorithms in the [Dice](https://github.com/xethya/xethya-dice) module. She wants more _aggresive_ rolls, so she starts writing down how the dice should behave in [xethya/.specs](https://github.com/xethya/.specs). For that, she opens an issue to submit a proposal. The proposal spec is discussed and once that the _Guild_ resolves where should the feature live, coding begins. 
+> Once the feature is developed, reviewed and merged, a _freezed spec_ entry is created in `.specs`, in order to preserve how the feature works.
+
+Keep in mind that we're working for other developers, so the framework must be clearly documented.
 
 [_The Guild_](https://github.com/orgs/xethya/teams/guild) is the team of core contributors of Xethya.
 
